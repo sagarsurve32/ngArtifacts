@@ -19,6 +19,26 @@
       "age": 29,
       "mobile": 9766557184,
       "gender": "Female"
+    },
+    {
+      "id": 3,
+      "fname": "Vishwas",
+      "lnamme": "Surve",
+      "dob": "08-02-1956",
+      "address": "Sion, Mumbai",
+      "age": 62,
+      "mobile": 8898414399,
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "fname": "Namrata",
+      "lnamme": "Surve",
+      "dob": "29-11-1958",
+      "address": "Sion, Mumbai",
+      "age": 61,
+      "mobile": 9766557184,
+      "gender": "Female"
     }
   ]
 }
