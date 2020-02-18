@@ -4,11 +4,11 @@
       "id": 1,
       "fname": "Sagar",
       "lnamme": "Surve",
-      "dob": 21-01-1986,
+      "dob": "21-01-1986",
       "address": "Sion, Mumbai",
       "age": 34,
       "mobile": 9930893992,
-      "gender": Male
+      "gender": "Male"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "address": "Sion, Mumbai",
       "age": 29,
       "mobile": 9766557184,
-      "gender": Female
+      "gender": "Female"
     }
   ]
 }
