@@ -1,0 +1,24 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "fname": "Sagar",
+      "lnamme": "Surve",
+      "dob": 21-01-1986,
+      "address": "Sion, Mumbai",
+      "age": 34,
+      "mobile": 9930893992,
+      "gender": Male
+    },
+    {
+      "id": 2,
+      "fname": "Snehal",
+      "lnamme": "Surve",
+      "dob": 09-10-1990,
+      "address": "Sion, Mumbai",
+      "age": 29,
+      "mobile": 9766557184,
+      "gender": Female
+    }
+  ]
+}
